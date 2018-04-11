@@ -35,7 +35,7 @@ Memo for my beloved students
 - [Going further](#going-further)
 
 ## Keyboard's shortcuts (Mac)
-### Special characters
+### Special characters (french keyboard)
 ```ruby
 { # alt + (
 } # alt + )
